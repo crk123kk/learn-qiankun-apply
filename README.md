@@ -1,6 +1,6 @@
 ### 项目介绍
 
-    这个是关于 qiankun 这个技术的简单认识的实现demo
+    这个是关于 qiankun （ https://qiankun.umijs.org/zh/faq ） 这个技术的简单认识的实现demo
 
     三个项目分别使用不同的技术栈实现，但是可以独立启动也可以相互引用
 
